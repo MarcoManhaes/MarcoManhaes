@@ -8,7 +8,7 @@ Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação!
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomanhaes&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
