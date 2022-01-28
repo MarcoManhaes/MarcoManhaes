@@ -4,12 +4,12 @@ Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação!
 
 <div align="center">
   <a href="https://github.com/marcomanhaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcomanhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomanhaes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcomanhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomanhaes&layout=compact&langs_count=7&theme=dracula"/>
    <div align="center">
   <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcomanhaes&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomanhaes&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 </div>
