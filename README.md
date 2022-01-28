@@ -36,7 +36,5 @@ Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação!
 <div> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-  ![snake gif](https://github.com/marcomanhaes/marcomanhaes/blob/output/github-contribution-grid-snake.gif)
 
 </div>
