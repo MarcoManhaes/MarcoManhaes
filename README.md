@@ -29,7 +29,7 @@ Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação!
  <img align="center" title="VsCode" alt="VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  <img align="center" title="VisualStudio" alt="VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
  <img align="center" title="git" alt="git" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" title="AWS-S3" alt="AWS-S3" height="32" width="40" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg">
+ <img align="center" title="AWS-S3" alt="AWS-S3" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg">
  
  </div>
  
