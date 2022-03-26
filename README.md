@@ -29,7 +29,7 @@ Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação!
  <img align="center" title="VisualStudio" alt="VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
  <img align="center" title="git" alt="git" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  
- <img align="center" title="RabbitMq" alt="RabbitMq" height="40" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fpt%2Flogo%2Frabbitmq&psig=AOvVaw2dclkpwC8aLydKOXHY4TeY&ust=1648380572422000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj_w6rW4_YCFQAAAAAdAAAAABAD">
+ <img align="center" title="RabbitMq" alt="RabbitMq" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg">
  
  </div>
  
