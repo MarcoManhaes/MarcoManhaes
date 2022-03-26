@@ -23,13 +23,13 @@ Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação!
  <img align="center" title="Oracle" alt="Oracle" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
  <img align="center" title="SqlServer" alt="SqlServer" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
  <img align="center" title="Flask" alt="Flask" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+ <img align="center" title="RabbitMQ" alt="RabbitMQ" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg">
 <!-- <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">-->
  <img align="center" title=".NetCore" alt=".NetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
  <img align="center" title="VsCode" alt="VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  <img align="center" title="VisualStudio" alt="VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
  <img align="center" title="git" alt="git" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- 
- <img align="center" title="RabbitMq" alt="RabbitMq" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg">
+ <img align="center" title="AWS-S3" alt="AWS-S3" height="32" width="40" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg">
  
  </div>
  
