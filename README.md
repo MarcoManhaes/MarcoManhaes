@@ -21,6 +21,7 @@ Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação!
  <img align="center" title="Docker" alt="Docker" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  <img align="center" title="Mysql" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <img align="center" title="Oracle" alt="Oracle" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+ <img align="center" title="C#" alt="C#" height="30" width="30" src=https://cdn.icon-icons.com/icons2/2148/PNG/512/regex_icon_132036.png>
  <img align="center" title="SqlServer" alt="SqlServer" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
  <img align="center" title="Flask" alt="Flask" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
  <img align="center" title="RabbitMQ" alt="RabbitMQ" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg">
