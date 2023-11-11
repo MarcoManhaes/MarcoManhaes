@@ -2,7 +2,7 @@
 ##
 <div> 
 
- <img height="252em" src="[https://media.licdn.com/dms/image/D4D16AQFsnpo2tnAwWw/profile-displaybackgroundimage-shrink_350_1400/0/1694680258226?e=1704931200&v=beta&t=dglZXWwoCcA5KTAgSV2C-C1-_lHowWDp1JdqXBfnGS8](https://cdn-images-1.medium.com/max/800/1*WVIYnVq3vk-a0NBM2XwmyQ.png)"/>
+ <img height="100%" src="https://cdn-images-1.medium.com/v2/resize:fit:800/1*WVIYnVq3vk-a0NBM2XwmyQ.png"/>
 
 </div>
 
