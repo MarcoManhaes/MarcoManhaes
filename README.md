@@ -2,10 +2,10 @@
 
 <div > 
 
- <img margin-left="20px" height="100%" src="https://cdn-images-1.medium.com/v2/resize:fit:800/1*WVIYnVq3vk-a0NBM2XwmyQ.png"/>
+ &ensp;&ensp;&ensp;&ensp;<img margin-left="20px" height="100%" src="https://cdn-images-1.medium.com/v2/resize:fit:800/1*WVIYnVq3vk-a0NBM2XwmyQ.png"/>
 
 </div>
-
+<br/>
 Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação!
 
 <div style="display: inline_block" >
