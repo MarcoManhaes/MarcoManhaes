@@ -8,12 +8,14 @@
 
 ### &ensp;&ensp;&ensp;Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação! ###
 <br/>
-<div style="display: inline_block" >
-  <a href="https://github.com/marcomanhaes">
-     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcomanhaes&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomanhaes&theme=tokyonight&hide_border=false&&layout=compact"/>   
-  </a>
-</div>
+
+ <div align="center">
+   <a href="https://github.com/marcomanhaes">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcomanhaes&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomanhaes&theme=tokyonight&hide_border=false&&layout=compact"/>   
+   </a>
+ </div>
+
 
 <div style="display: inline_block"><br>
  <img align="center" title="C#" alt="C#" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
