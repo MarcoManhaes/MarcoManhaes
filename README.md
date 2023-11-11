@@ -1,12 +1,10 @@
 ### Olá Mundo! ###
-##
+
 <div> 
 
  <img height="100%" src="https://cdn-images-1.medium.com/v2/resize:fit:800/1*WVIYnVq3vk-a0NBM2XwmyQ.png"/>
 
 </div>
-
-##
 
 Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação!
 
