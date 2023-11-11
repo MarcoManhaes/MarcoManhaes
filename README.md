@@ -9,12 +9,15 @@
 ### &ensp;&ensp;&ensp;Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação! ###
 <br/>
 
- <div align="center">
-   <a href="https://github.com/marcomanhaes">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcomanhaes&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomanhaes&theme=tokyonight&hide_border=false&&layout=compact"/>   
-   </a>
- </div>
+<div style="display: flex;">
+  <div style="flex: 1; background-color: #fff; padding-left: 20px"></div>
+  <div style="flex: 1;">
+    <a href="https://github.com/marcomanhaes">
+      <img height="150em" margin-left: 20px src="https://github-readme-stats.vercel.app/api?username=marcomanhaes&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomanhaes&theme=tokyonight&hide_border=false&&layout=compact"/>
+    </a>
+  </div>
+</div>
 
 
 <div style="display: inline_block"><br>
