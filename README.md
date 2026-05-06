@@ -8,7 +8,7 @@
 
 ### Eu sou Marco Manhães, um navegante no mundo da tecnologia da informação!
 
-<div align="center">
+<!--<div align="center">
 
 <a href="https://github.com/marcomanhaes">
 
@@ -20,7 +20,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomanhaes
 
 </a>
 
-</div>
+</div> -->
 
 <p align="center">
 
