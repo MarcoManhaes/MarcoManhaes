@@ -22,48 +22,27 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcomanhaes
 
 </div>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
+<p align="center">
 
-<td><img title="C#" alt="C#" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></td>
+<img title="C#" alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img title="React" alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img title="Python" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img title="JavaScript" alt="JavaScript" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img title="TypeScript" alt="TypeScript" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+<img title="Redux" alt="Redux" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+<img title="HTML5" alt="HTML5" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img title="CSS3" alt="CSS3" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img title="Docker" alt="Docker" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img title="MySQL" alt="MySQL" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img title="Oracle" alt="Oracle" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
+<img title="Regex" alt="Regex" height="32" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/regex_icon_132036.png" />
+<img title="SQL Server" alt="SQL Server" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img title="Flask" alt="Flask" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
+<img title="RabbitMQ" alt="RabbitMQ" height="36" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" />
+<img title=".NET Core" alt=".NET Core" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
+<img title="VS Code" alt="VS Code" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img title="Visual Studio" alt="Visual Studio" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+<img title="Git" alt="Git" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img title="AWS" alt="AWS" height="46" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
 
-<td><img title="React" alt="React" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
-
-<td><img title="Python" alt="Python" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
-
-<td><img title="JavaScript" alt="JavaScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
-
-<td><img title="TypeScript" alt="TypeScript" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></td>
-
-<td><img title="Redux" alt="Redux" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></td>
-
-<td><img title="HTML5" alt="HTML5" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
-
-<td><img title="CSS3" alt="CSS3" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-
-<td><img title="Docker" alt="Docker" height="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></td>
-
-<td><img title="MySQL" alt="MySQL" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></td>
-
-<td><img title="Oracle" alt="Oracle" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></td>
-
-<td><img title="Regex" alt="Regex" height="38" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/regex_icon_132036.png"></td>
-
-<td><img title="SQL Server" alt="SQL Server" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></td>
-
-<td><img title="Flask" alt="Flask" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></td>
-
-<td><img title="RabbitMQ" alt="RabbitMQ" height="42" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg"></td>
-
-<td><img title=".NET Core" alt=".NET Core" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></td>
-
-<td><img title="VS Code" alt="VS Code" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></td>
-
-<td><img title="Visual Studio" alt="Visual Studio" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></td>
-
-<td><img title="Git" alt="Git" height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></td>
-
-<td><img title="AWS" alt="AWS" height="54" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"></td>
-
-</tr>
-</table>
+</p>
